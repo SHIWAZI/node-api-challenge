@@ -1,0 +1,27 @@
+{
+  "name": "physical_fitness_class",
+  "version": "1.0.0",
+  "description": "api for physical studies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "shiwazi dey",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.14"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHIWAZI/node-api-challenge.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SHIWAZI/node-api-challenge/issues"
+  },
+  "homepage": "https://github.com/SHIWAZI/node-api-challenge#readme"
+}
